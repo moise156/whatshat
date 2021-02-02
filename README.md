@@ -1,2 +1,1 @@
-# whatshat
-mon si est un site e-commerce et tchat enligne
+#mon site est un site de e-commerce et de tchat enligne 
